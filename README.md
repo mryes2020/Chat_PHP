@@ -3,12 +3,8 @@ Simple Chat System made with php, javascript, ajax, css and html of course
 
 # Warning
 
-Admins username: administrator1<br>
-Admins password: password1<br>
-<br>
-<br>
-Admins username 2: administrator2<br>
-Admins password 2: password2<br>
+Admins username: `administrator`<br>
+Admins password: `adminpassword1`<br>
 <br>
 # Installation
 The project is made with php and mysql mostly, this is why you must have a local server, and a mysql server setup (with the database, and tables) <br>

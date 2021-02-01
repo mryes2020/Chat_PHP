@@ -2,7 +2,7 @@
 Simple Chat System made with php, javascript, ajax, css and html of course
 
 # Warning
-
+You can find a demo of the website in the demo.png file<br>
 Admins username: `administrator`<br>
 Admins password: `adminpassword1`<br>
 Each administrator login will be logged in the `logsboii.txt` file

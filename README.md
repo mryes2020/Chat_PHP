@@ -1,6 +1,15 @@
 # Chat_PHP
 Simple Chat System made with php, javascript, ajax, css and html of course
 
+# Warning
+
+Admins username: administrator1
+Admins password: password1
+
+
+Admins username 2: administrator2
+Admins password 2: password2
+
 # Installation
 The project is made with php and mysql mostly, this is why you must have a local server, and a mysql server setup (with the database, and tables) 
 ( For localhost hosting and mysql server i use xampp, which serves a http server + mysql server on 127.0.0.1 ) 

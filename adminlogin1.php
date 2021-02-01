@@ -2,19 +2,19 @@
 session_start();
 $tryestobeadmin = false; 
 $isadmin = false; 
-$iskevin = false; 
+$isadminn = false; 
 $username = $_SESSION["user"];
 
 if ($username == "administrator") {
 	$tryestobeadmin = true; 
-	$iskevin = true; 
+	$isadminn = true; 
 }else {
 	$tryestobeadmin = false; 
-	$iskevin = false;
+	$isadminn = false;
 }
 
 
-if ($tryestobeadmin == true && $iskevin == true) {
+if ($tryestobeadmin == true && $isadminn == true) {
 	
 }else {
 	header("Location: index.php");
@@ -66,7 +66,7 @@ body {
 </style>
 </head>
 <body>
-<h1>Login to <span class="admin">Mr.hakarman</span></h1>
+<h1>Login to <span class="admin">@Administrator</span></h1>
 <p>Type the mr.hakarman's password to enter the chat as admin: </p>	
 <form method="post" style="width: 80%;">
 	<input type="password" class="textbox" placeholder="Password: " autocomplete="false"  name="loginTextBox">

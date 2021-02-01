@@ -5,6 +5,7 @@ Simple Chat System made with php, javascript, ajax, css and html of course
 
 Admins username: `administrator`<br>
 Admins password: `adminpassword1`<br>
+Each administrator login will be logged in the `logsboii.txt` file
 <br>
 # Installation
 The project is made with php and mysql mostly, this is why you must have a local server, and a mysql server setup (with the database, and tables) <br>

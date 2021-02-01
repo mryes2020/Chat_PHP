@@ -13,7 +13,7 @@ The project is made with php and mysql mostly, this is why you must have a local
 ## Step 3 
  - Make a database called: `chat_server1`
 ## Step 4
- - Make some tables (`chat, chathack, chatnets, chatpro, chattalkadmins, chattehc` - each table will have 2 rows which will be `Text` and `Name`)
+ - Make some tables (`chat, chathack, chatnetw, chatpro, chattalkadmins, chattehc` - each table will have 2 rows which will be `Name` and `Text`)
   - Warning! Tables, database and the rows should be named the exact way its typed!!
 # Step 5
  - You're done ( now you can navigate to the url `http://localhost:80/` )

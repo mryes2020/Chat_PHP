@@ -28,7 +28,7 @@ The project is made with php and mysql mostly, this is why you must have a local
  - You're done ( now you can navigate to the url `http://localhost:80/` )<br>
  - Warning! If you have moved a directory to the htdocs folder the url is then `http://localhost:80/[name of the directory]`!!<br>
 # Final status
- - This is the sql structure you should have at the end:
+ - This is the sql structure you should have at the end:<br>
  = Database: chat_server1<br><br>
  == Table: chat<br>
  === Row: Name<br>

@@ -29,22 +29,22 @@ The project is made with php and mysql mostly, this is why you must have a local
  - Warning! If you have moved a directory to the htdocs folder the url is then `http://localhost:80/[name of the directory]`!!<br>
 # Final status
  - This is the sql structure you should have at the end:
- = Database: chat_server1
- == Table: chat
- === Row: Name
- === Row: Text
- == Table: chathack
- === Row: Name
- === Row: Text
- == Table: chatnetw
- === Row: Name
- === Row: Text
- == Table: chatpro
- === Row: Name
- === Row: Text
- == Table: chattalkadmins
- === Row: Name
- === Row: Text
- == Table: chatethc
- === Row: Name
- === Row: Text
+ = Database: chat_server1<br>
+ == Table: chat<br>
+ === Row: Name<br>
+ === Row: Text<br>
+ == Table: chathack<br>
+ === Row: Name<br>
+ === Row: Text<br>
+ == Table: chatnetw<br>
+ === Row: Name<br>
+ === Row: Text<br>
+ == Table: chatpro<br>
+ === Row: Name<br>
+ === Row: Text<br>
+ == Table: chattalkadmins<br>
+ === Row: Name<br>
+ === Row: Text<br>
+ == Table: chatethc<br>
+ === Row: Name<br>
+ === Row: Text<br>
